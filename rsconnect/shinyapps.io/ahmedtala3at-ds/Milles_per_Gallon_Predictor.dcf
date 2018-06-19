@@ -1,0 +1,12 @@
+name: Milles_per_Gallon_Predictor
+title: Milles_per_Gallon_Predictor
+username:
+account: ahmedtala3at-ds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 363007
+bundleId: 1437118
+url: https://ahmedtala3at-ds.shinyapps.io/Milles_per_Gallon_Predictor/
+when: 1529406745.1387
+asMultiple: FALSE
+asStatic: FALSE
